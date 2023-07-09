@@ -1,1 +1,4 @@
-My first readme UPDATED 2
+# this is my first day
+~~~~
+welcome
+~~~~ 
